@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c67a0cd-5879-4ec7-b612-58b3906119b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Projects/Number_Guess.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Number_Guess.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Number_Guess.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,7 @@
   "keyToString": {
     "Python.Calculator.executor": "Run",
     "Python.Day 12.executor": "Run",
+    "Python.Number_Guess.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"

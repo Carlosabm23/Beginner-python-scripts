@@ -42,18 +42,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Calculator.executor": "Run",
-    "Python.Day 12.executor": "Run",
-    "Python.Day 13.executor": "Debug",
-    "Python.Number_Guess.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "debugger.stepping"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day 12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day 13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Number_Guess.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;debugger.stepping&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\carlo\Documents\GitHub\Beginner-python-scripts\Projects" />

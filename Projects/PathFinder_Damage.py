@@ -12,7 +12,7 @@ def normal_damage():
     total_normal_damage = 0
     for i in range(4):
         roll2 = damage()
-        print(f"roll {i+1}: {roll2}")
+        #print(f"roll {i+1}: {roll2}")
         total_normal_damage += roll2
     return total_normal_damage
 

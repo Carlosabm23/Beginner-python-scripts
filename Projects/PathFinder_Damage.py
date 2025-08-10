@@ -36,7 +36,7 @@ def attack_damage_dice(is_raging):
         return total_damage
 
 
-    print(f"will you hit? {attack_dice()+21}")
+    print(f"will you hit? {attack_dice()+28}")
     damages = input("Yes or No: \n").lower()
 
 
@@ -45,8 +45,8 @@ def attack_damage_dice(is_raging):
     elif damages == "yes":
         crit = input("Did You Crit? Yes or No: \n").lower()
 
-        base_bonus = 7
-        crit_bonus = 12
+        base_bonus = 9
+        crit_bonus = 9
 
         if is_raging:
             base_bonus += 6

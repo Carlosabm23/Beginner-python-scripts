@@ -46,7 +46,7 @@ def attack_damage_dice(is_raging):
         crit = input("Did You Crit? Yes or No: \n").lower()
 
         base_bonus = 9
-        crit_bonus = 9
+        crit_bonus = 18
 
         if is_raging:
             base_bonus += 6

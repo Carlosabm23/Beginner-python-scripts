@@ -21,7 +21,7 @@ def attack_damage_dice(is_raging):
 
     def normal_damage():
         total_normal_damage = 0
-        for normal in range(4):
+        for normal in range(8):
             roll2 = damage()
             print(f"roll {normal+1}: {roll2}")
             total_normal_damage += roll2
@@ -29,7 +29,7 @@ def attack_damage_dice(is_raging):
 
     def crit_damage():
         total_damage = 0
-        for crit2 in range(8):
+        for crit2 in range(4):
             roll = damage()
             print(f"roll {crit2+1}: {roll}")
             total_damage += roll

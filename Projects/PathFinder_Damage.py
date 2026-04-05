@@ -21,7 +21,7 @@ def attack_damage_dice(is_raging):
 
     def normal_damage():
         total_normal_damage = 0
-        for normal in range(8):
+        for normal in range(3):
             roll2 = damage()
             print(f"roll {normal+1}: {roll2}")
             total_normal_damage += roll2
@@ -36,7 +36,7 @@ def attack_damage_dice(is_raging):
         return total_damage
 
 
-    print(f"will you hit? {attack_dice()+28}")
+    print(f"will you hit? {attack_dice()+29}")
     damages = input("Yes or No: \n").lower()
 
 
